@@ -1,2 +1,2 @@
 # Project1
-This project was about Query a music store database. Here, I learned about using SQLite to create a csv file from a database file and make different visualizations.
+This project was about Query a music store database. Here, in the file of 'Queries.txt' i wrote code of SQL. I started with making some aggregations such as 'count' and 'sum' functions with using inner joins in our database to identify the top Genre. After that started to determine best album and in which genre. Also, I learned about different types of subqueries and applied With Subquery to determine top paid artists. Finally, I used CASE Statements to rate different countries. 
